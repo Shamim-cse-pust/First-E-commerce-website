@@ -1,0 +1,72 @@
+.abc{
+    background-color: #fceae8;
+    padding: 10%;
+}
+.colum{
+    margin-top: -7%; 
+    padding: 2%;
+}
+/* .buy-now{
+    background-color: crimson;
+    color: white;
+    padding: 2%;
+    border-radius: 15%;
+} */
+.price{
+    color: crimson;
+}
+.container .abc{
+    margin-top: 50px;
+}
+/* .nav .row img{
+    height: 300px;
+} */
+.categories{
+    margin-top: 100px;
+
+}
+.shoes{
+    background-color: crimson;
+    height: 150px;
+    border-radius: 15px;
+    
+}
+.bag{
+    background-color: green;
+    height: 150px;
+    border-radius: 15px;
+    
+}
+.watch{
+    background-color: blue;
+    height: 150px;
+    border-radius: 15px;
+    
+}
+#shoes{
+    margin-top: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#bags{
+    margin-top: 100px;
+
+}
+
+footer{
+    margin-top: 50px;
+    background: #111;
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+footer span a{
+    color: crimson;
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
